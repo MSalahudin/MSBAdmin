@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MSB Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_not_connected">No internet connection. Please check your network settings.</string>
+    <string name="dialog_title">No Network</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="url">http://msbilal.com/msbilal.com/oms/PortalOperator/Management/Login</string>
+    <string name="permission_camera_rationale">Camera permission is needed to show the camera preview.</string>
+    <string name="permission_read_external_storage">Read external storage permission is needed to show the image from gallery.</string>
+</resources>
